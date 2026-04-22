@@ -1,0 +1,30 @@
+{
+    "tabWidth": 2,
+    "useTabs": false,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "es5",
+    "printWidth": 100,
+    "bracketSpacing": true,
+    "arrowParens": "always",
+    "endOfLine": "lf",
+    "plugins": ["@prettier/plugin-php"],
+    "overrides": [
+        {
+            "files": "*.php",
+            "options": {
+                "parser": "php",
+                "tabWidth": 4,
+                "singleQuote": false,
+                "braceStyle": "1tbs"
+            }
+        },
+        {
+            "files": ["*.html", "*.css", "*.scss"],
+            "options": {
+                "singleQuote": false,
+                "printWidth": 120
+            }
+        }
+    ]
+}
