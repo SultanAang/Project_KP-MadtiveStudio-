@@ -1,6 +1,6 @@
 # Madtive Documentation -
 
-Aplikasi manajemen dokumentasi teknis berbasis web yang dirancang untuk memfasilitasi proses peninjauan (review) dan persetujuan (approval) konten sebelum diterbitkan. Proyek ini dibangun menggunakan **Laravel 11** dan **Livewire 3**.
+Aplikasi manajemen dokumentasi teknis berbasis web yang dirancang untuk memfasilitasi proses peninjauan (review) dan persetujuan (approval) konten sebelum diterbitkan. Proyek ini dibangun menggunakan **Laravel 12** dan **Livewire 4**.
 
 ## 🚀 Fitur Utama
 
